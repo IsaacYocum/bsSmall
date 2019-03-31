@@ -1,0 +1,78 @@
+{
+    "contactInfo": {
+        "fullName": "Isaac Yocum",
+        "address": "Orem, UT",
+        "phoneNum": "443-603-5152",
+        "email": "isyocum@gmail.com",
+        "gitHub": "github.com/IsaacYocum"
+    },
+    "openingStatement": "U.S. veteran with experience in team building and web design.",
+    "sections": {
+        "skills": {
+            "bulletSkills": [
+                "Web Development (C# backend)",
+                "Microsoft SQL Server",
+                "ASP.NET MVC",
+                "HTML/CSS",
+                "C#",
+                "Visual Studio Team Services",
+                "Data mining",
+                "Github",
+                "Excel"
+            ],
+            "detailedSkills": {
+                "title": "Teamwork and Leadership",
+                "description": [
+                    "Coordinated with 10+ team members to accomplish tasks in a high stress, detail oriented environment on a day-to-day basis for three years.",
+                    "Trained and ensured 20+ new hires were knowledgeable and prepared for their job requirements."
+                ]
+            }
+        },
+        "education": {
+            "degree": {
+                "name": "Bachelor of Science",
+                "date": "Expected Graduation, 2019"
+            },
+            "school": {
+                "name": "Utah Valley University",
+                "major": "Information Systems",
+                "emphasis": "Application Development",
+                "gpa": "3.8/4.0"
+            },
+            "certificates": [{
+                    "name": "OSHA 10-hour course in General Industry Safety and Health",
+                    "date": "2014"
+                },
+                {
+                    "name": "Eagle Scout, Boy Scouts of America",
+                    "date": "2011"
+                }
+            ]
+        },
+        "experience": {
+            "workHistory": [{
+                    "title": "Developing personal website as a side project.",
+                    "date": "2018 - current",
+                    "description": [
+                        "Using GitHub for version control (https://www.github.com/IsaacYocum/MyWebsite)."
+                    ]
+                },
+                {
+                    "title": "Developed mock charity website using ASP.NET MVC framework with a team.",
+                    "date": "2018",
+                    "description": [
+                        "Used Visual Studio Team Services for version control."
+                    ]
+                },
+                {
+                    "title": "United States Marine Corps, Aircraft Rescue and Firefighting.",
+                    "date": "2011 - 2015",
+                    "description": [
+                        "Operated, serviced, inspected and tested aircraft rescue and firefighting vehicles, firefighting systems, and controls in a highly detail oriented environment.",
+                        "Worked and coordinated with co-workers to accomplish tasks and objectives in a high stress environment, often at a moment’s notice. "
+                    ]
+                }
+            ]
+        }
+    }
+}
